@@ -1,2 +1,13 @@
 # Minecraft-Griefing-Tool
-Griefing Tool created by me
+
+# Usage:
+Download Python
+Open Cmd and type
+
+# pip install colorama
+# pip install requests
+# pip install mcstatus
+
+#Credits:
+
+# YT : https://youtube.com/c/Keevo
